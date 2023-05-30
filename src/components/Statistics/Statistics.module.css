@@ -1,0 +1,15 @@
+.statistics {
+  text-align: center;
+}
+
+.statistics p {
+  margin-bottom: 5px;
+}
+
+.statistics .positive {
+  color: green;
+}
+
+.statistics .negative {
+  color: red;
+}

@@ -1,0 +1,20 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.feedbackOptions .button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4d42cb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.feedbackOptions .button:hover {
+  background-color: #4178af;
+}
